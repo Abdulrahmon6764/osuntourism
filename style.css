@@ -1,0 +1,89 @@
+*{
+    margin: none;
+    padding: none;
+    box-sizing: border-box;
+}
+#tourism1 a{
+    padding: 15px;
+    float: right;
+}
+#tourism1{
+  background-color: rgba(165, 42, 42, 0.925);
+  overflow: hidden;
+  border-radius: 10px;
+}
+#tourism2{
+list-style-type: none;
+overflow: hidden;
+border-radius: 10px;
+}
+#tourism2 li{
+float: right;
+}
+#tourism2 a{
+text-decoration: none;
+display: inline-block;
+color: black;
+padding: 15px;
+padding-top: 20px;
+}
+#law img{
+  width: 33.3%;
+  
+}
+#pic2 h3{
+  font-size: 30px;
+  color: yellow;
+  overflow: hidden;
+  width: 10%;
+  /* display: block; */
+text-align: center;
+
+}
+#true{
+  
+  overflow: hidden;
+  
+}
+#pics img{
+  width: 100%;
+  height: 505px;
+}
+#good h3{
+  margin: 20px;
+
+}
+#good img{
+  width: 33.3%;
+}
+#class{
+  text-align: center;
+}
+#class p{
+  font-size: 20px;
+  color: yellow;
+}
+#class2 img{
+  height: 300px;
+  padding: 20px;
+}
+#class3{
+  text-align: justify;
+  background-color: yellow;
+  padding: 20px;
+}
+#class4{
+  overflow: hidden;
+  background-color: rgba(165, 42, 42, 0.404);
+
+  
+}
+.apple{
+  float: left;
+  padding: 0 40px;
+}
+
+
+
+
+
